@@ -1,0 +1,21 @@
+[1561240675] [LOG] Initializing SDK
+[1561240675] [LOG] .modio/ directory created at C:/Users/antar/Documents/Unreal Projects/UE4Example/
+[1561240675] [LOG] v0.11.1
+[1561240675] [LOG] Installing downloaded mods...
+[1561240675] [LOG] Finished installing downloaded mods
+[1561240675] [LOG] Loading mod events data...
+[1561240675] [LOG] No mod events data found, downloading from the beginning.
+[1561240675] [LOG] Loading authentication data...
+[1561240675] [LOG] Authentication token not found. You are not logged in.
+[1561240675] [LOG] Curl initialized
+[1561240675] [LOG] Checking installed mod cache data...
+[1561240675] [LOG] Finished checking installed mod cache data...
+[1561240675] [LOG] Clearing old cache files...
+[1561240675] [LOG] Finished clearing old cache files.
+[1561240675] [LOG] SDK Initialized
+[1561241018] [LOG] POST: https://api.test.mod.io/v1/oauth/emailrequest?api_key=e91c01b8882f4affeddd56c96111977b&email=ahmed.hn.43@gmail.com
+[1561241063] [LOG] X-RateLimit-Remaining: 999
+[1561241063] [LOG] Json request Finished. Response code: 200
+[1561241068] [LOG] POST: https://api.test.mod.io/v1/oauth/emailrequest?api_key=e91c01b8882f4affeddd56c96111977b&email=ahmed.hn.43@gmail.com
+[1561241069] [LOG] X-RateLimit-Remaining: 998
+[1561241069] [LOG] Json request Finished. Response code: 200
