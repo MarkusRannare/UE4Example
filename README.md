@@ -12,9 +12,13 @@ Authenticate via e-mail to enable automatic downloads when subscribing to mods.
 
 Input a security code sent your email to authenticate.
 
+![Alt text](img/email_flow.png?raw=true "Title")
+
 ## Automatic download queue
 
 Once authenticated, mods will be downloaded autmatically every time you subscribe via [API](https://docs.mod.io/), [web](https://mod.io/) or [plugins](https://github.com/modio/UE4Plugin).
+
+![Alt text](img/download_queue.png?raw=true "Title")
 
 # Going further
 
