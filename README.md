@@ -31,7 +31,7 @@ Clone this repo and download the mod.io plugin submodule, then build and run.
 ```
 git clone https://github.com/modio/UE4Example.git # download the project
 cd UE4Example
-git submodule update # download the mod.io plugin submodule
+git submodule update --init --recursive # download the mod.io plugin submodule
 ```
 
 Compile and run by double clicking ModioExample.uproject.
