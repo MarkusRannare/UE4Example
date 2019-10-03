@@ -20,18 +20,28 @@ Once authenticated, mods will be downloaded autmatically every time you subscrib
 
 ![Alt text](img/download_queue.png?raw=true "Title")
 
+## Project Settings
+
+This project connects to the [Example Game](https://example.test.mod.io/) by default. Connect it to your game by grabbing your `Game Id` and `Api Key` from the [mod.io web](https://mod.io/) and placing them on your editor's mod.io settings.
+
+![Alt text](img/settings.png?raw=true "Title")
+
 # Going further
 
 mod.io offers robust mod functionality for your moddable game. This includes ratings, dependencies, tags, prebuilt mod download and upload queue, GOG and steam auth. See the [usage guide](https://github.com/modio/UE4Plugin#usage) or the complete [wiki documentation](https://github.com/modio/UE4Plugin/wiki) to learn more about the mod.io UE4 integration. If you're completely new to mod.io refer to the [getting started](https://apps.mod.io/guides/getting-started) guide instead.
 
-# Building
+# Running
 
-Clone this repo and download the mod.io plugin submodule, then build and run.
+Clone this repo.
 
 ```
 git clone https://github.com/modio/UE4Example.git # download the project
-cd UE4Example
-git submodule update --init --recursive # download the mod.io plugin submodule
 ```
 
-Compile and run by double clicking ModioExample.uproject.
+Download the mod.io plugin submodule.
+
+```
+git submodule update --init --recursive
+```
+
+Compile and run by double clicking `ModioExample.uproject`.
