@@ -22,7 +22,7 @@ Once authenticated, mods will be downloaded autmatically every time you subscrib
 
 ## Project Settings
 
-This project connects to the [Example Game](https://example.test.mod.io/) by default. Connect it to your game by grabbing your `Game Id` and `Api Key` from the [mod.io web](https://mod.io/) and placing them on your editor's mod.io settings.
+This project connects to the [Example Game](https://example.test.mod.io/) by default. Connect it to your game by grabbing your games's `Game Id` and `Api Key` from the [mod.io web](https://mod.io/) and placing them on your editor's mod.io settings.
 
 ![Alt text](img/settings.png?raw=true "Title")
 
