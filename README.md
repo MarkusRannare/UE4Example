@@ -14,11 +14,11 @@ Input a security code sent your email to authenticate.
 
 ![Alt text](img/email_flow.png?raw=true "Title")
 
-## Automatic download queue
+## Automatic downloads
 
-Once authenticated, mods will be downloaded autmatically every time you subscribe via [API](https://docs.mod.io/), [web](https://mod.io/) or [plugins](https://github.com/modio/UE4Plugin).
+Once authenticated, mods will sync every time you subscribe to them via [API](https://docs.mod.io/), [web](https://mod.io/) or [plugins](https://github.com/modio/UE4Plugin).
 
-![Alt text](img/download_queue.png?raw=true "Title")
+![Alt text](img/downloads.png?raw=true "Title")
 
 ## Project Settings
 
@@ -32,16 +32,18 @@ mod.io offers robust mod functionality for your moddable game. This includes rat
 
 # Running
 
-Clone this repo.
+1. Clone this repo.
 
 ```
-git clone https://github.com/modio/UE4Example.git # download the project
+git clone https://github.com/modio/UE4Example.git
 ```
 
-Download the mod.io plugin submodule.
+2. Manually insert the files for the plugin from the Modio folder into `Plugins\UE4Plugin`. Once gotten from the UE4 Marketplace, the plugin files can be found at a file path similar to this: `D:\Program Files\Epic Games\UE_4.23\Engine\Plugins\Marketplace\modio`.
+
+Alternatively, download the plugin files via git submodules:
 
 ```
 git submodule update --init --recursive
 ```
 
-Compile and run by double clicking `ModioExample.uproject`.
+3. Compile and run by double clicking `ModioExample.uproject`.
