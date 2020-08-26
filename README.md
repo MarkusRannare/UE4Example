@@ -4,6 +4,10 @@
 [![Discord](https://img.shields.io/discord/389039439487434752.svg?label=Discord&logo=discord&color=7289DA&labelColor=2C2F33)](https://discord.mod.io)
 [![Master docs](https://img.shields.io/badge/docs-master-green.svg)](https://github.com/modio/UE4Plugin/wiki)
 
+# NOTE
+
+This repository is currently unmaintained and may not work with the latest version of the Unreal Engine. If you have questions or need support implementing mod.io support for your Unreal Engine project, join us on [Discord](https://discord.mod.io) and our team will be happy to assist you.
+
 # Usage
 
 Authenticate via e-mail to enable automatic downloads when subscribing to mods.
