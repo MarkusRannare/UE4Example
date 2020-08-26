@@ -6,7 +6,7 @@
 
 # NOTE
 
-This repository is currently unmaintained and may not work with the latest version of the Unreal Engine. If you have questions or need support implementing mod.io support for your Unreal Engine project, join us on [Discord](https://discord.mod.io) and our team will be happy to assist you.
+This repository is currently **unmaintained** and may not work with the latest version of the Unreal Engine. If you have questions or need support implementing mod.io support for your Unreal Engine project, join us on [Discord](https://discord.mod.io) and our team will be happy to assist you.
 
 # Usage
 
