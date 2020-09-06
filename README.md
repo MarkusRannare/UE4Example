@@ -32,7 +32,7 @@ This project connects to the [Example Game](https://example.test.mod.io/) by def
 
 # Going further
 
-mod.io offers robust mod functionality for your moddable game. This includes ratings, dependencies, tags, prebuilt mod download and upload queue, GOG and steam auth. See the [usage guide](https://github.com/modio/UE4Plugin#usage) or the complete [wiki documentation](https://github.com/modio/UE4Plugin/wiki) to learn more about the mod.io UE4 integration. If you're completely new to mod.io refer to the [getting started](https://apps.mod.io/guides/getting-started) guide instead.
+mod.io offers robust mod functionality for your moddable game. This includes ratings, dependencies, tags, prebuilt mod download and upload queue, GOG and steam auth. See the [usage guide](https://github.com/modio/UE4Plugin#usage) or the complete [wiki documentation](https://github.com/modio/UE4Plugin/wiki) to learn more about the mod.io UE4 integration. If you're completely new to mod.io refer to the [getting started](https://mod.io/blog/getting-started) guide instead.
 
 # Running
 
